@@ -1,0 +1,34 @@
+/*
+* Brooke Traver
+* Due Date
+* Kanagroos CSS
+*/
+
+/* The universal seclector */
+
+* { 
+
+}
+
+ /* Body attributes here */
+ 
+ body {
+ 
+     background-color: palegoldenrod;
+     
+ }
+
+header {
+    
+    background-color: palegreen;
+}
+
+main {
+    
+    background-color: paleturquoise;
+}
+
+footer {
+    
+    background-color: pink;
+}
